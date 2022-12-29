@@ -1,17 +1,44 @@
-# Practical Cyber Security Resources
+# Practical Cyber Security Resources 🌟
 
 
 
-# Pentest General Resources
+# Pentest General Resources 
+
+[https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) 
+
+[https://blog.compass-security.com/2019/10/hacking-tools-cheat-sheet/](https://blog.compass-security.com/2019/10/hacking-tools-cheat-sheet/) 
+
+[https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets) 
+
+
+
 
 
 # Web Pentest
 
+[https://pentestbook.six2dez.com/others/web-checklist](https://pentestbook.six2dez.com/others/web-checklist) 
+
+
+
 
 # Mobile Pentest
 
+[https://0xn3va.gitbook.io/cheat-sheets/](https://0xn3va.gitbook.io/cheat-sheets/) 
+
+
+# Cloud Pentest
+
+[https://github.com/dafthack/CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets) 
+
 
 # Bug Bounty
+
+[https://bugbountyforum.com/tools/recon/](https://bugbountyforum.com/tools/recon/) 
+
+[https://infosecwriteups.com/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65](https://infosecwriteups.com/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65) 
+
+[https://infosecsanyam.medium.com/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2](https://infosecsanyam.medium.com/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2) 
+
 
 
 # OSINT
@@ -19,59 +46,90 @@
 
 # API Security
 
+[https://raw.githubusercontent.com/cyprosecurity/API-SecurityEmpire/main/assets/API Pentesting Mindmap.png](https://raw.githubusercontent.com/cyprosecurity/API-SecurityEmpire/main/assets/API%20Pentesting%20Mindmap.png) 
 
-# Certifications & Roadmaps
+[https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API Pentesting Mindmap ATTACK.pdf](https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf) 
 
+
+
+
+
+
+# Active Directory
+
+[https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/](https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/) 
+
+
+# DevSecOps
+
+
+# Certifications 
+
+[https://brcyrr.medium.com/recommendations-of-oscp-433a08c86f27](https://brcyrr.medium.com/recommendations-of-oscp-433a08c86f27) 
+
+[https://areyou1or0.it/index.php/2021/02/10/finally-oscp-may-the-force-be-with-you/](https://areyou1or0.it/index.php/2021/02/10/finally-oscp-may-the-force-be-with-you/) 
+
+[https://brcyrr.medium.com/recommendations-review-of-emapt-819e72a27f06](https://brcyrr.medium.com/recommendations-review-of-emapt-819e72a27f06) 
+
+[http://www.mannulinux.org/2022/07/covenant-c2-for-oscp-ad-lab.html](http://www.mannulinux.org/2022/07/covenant-c2-for-oscp-ad-lab.html) 
+
+[https://www.mannulinux.org/2022/07/covenant-c2-for-oscp-ad-lab-part-2.html](https://www.mannulinux.org/2022/07/covenant-c2-for-oscp-ad-lab-part-2.html) 
+
+
+# Roadmaps 
+
+[https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b](https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b)
+
+[https://medium.com/@rezaduty/mobile-penetration-tester-roadmap-f2ec9bd68dcf](https://medium.com/@rezaduty/mobile-penetration-tester-roadmap-f2ec9bd68dcf) 
 
 # General Resources
 
 
 
-[https://brcyrr.medium.com/recommendations-of-oscp-433a08c86f27](https://brcyrr.medium.com/recommendations-of-oscp-433a08c86f27) 
 
-[https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b](https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b)
 
-[https://areyou1or0.it/index.php/2021/02/10/finally-oscp-may-the-force-be-with-you/](https://areyou1or0.it/index.php/2021/02/10/finally-oscp-may-the-force-be-with-you/) 
 
-[https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/](https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/) 
+
+
+
+
 
 [https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap](https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap) 
 
-[https://brcyrr.medium.com/recommendations-review-of-emapt-819e72a27f06](https://brcyrr.medium.com/recommendations-review-of-emapt-819e72a27f06) 
 
-[https://medium.com/@rezaduty/mobile-penetration-tester-roadmap-f2ec9bd68dcf](https://medium.com/@rezaduty/mobile-penetration-tester-roadmap-f2ec9bd68dcf) 
 
-[https://raw.githubusercontent.com/cyprosecurity/API-SecurityEmpire/main/assets/API Pentesting Mindmap.png](https://raw.githubusercontent.com/cyprosecurity/API-SecurityEmpire/main/assets/API%20Pentesting%20Mindmap.png) 
+
+
+
 
 [https://twitter.com/Shubham_pen/status/1537657538795085824](https://twitter.com/Shubham_pen/status/1537657538795085824) 
 
-[https://pentestbook.six2dez.com/others/web-checklist](https://pentestbook.six2dez.com/others/web-checklist) 
 
 [https://bitvijays.github.io/LFC-VulnerableMachines.html#ctf-series-vulnerable-machines](https://bitvijays.github.io/LFC-VulnerableMachines.html#ctf-series-vulnerable-machines) 
 
-[http://www.mannulinux.org/2022/07/covenant-c2-for-oscp-ad-lab.html](http://www.mannulinux.org/2022/07/covenant-c2-for-oscp-ad-lab.html) 
 
-[https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API Pentesting Mindmap ATTACK.pdf](https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf) 
 
-[https://bugbountyforum.com/tools/recon/](https://bugbountyforum.com/tools/recon/) 
 
-[https://www.mannulinux.org/2022/07/covenant-c2-for-oscp-ad-lab-part-2.html](https://www.mannulinux.org/2022/07/covenant-c2-for-oscp-ad-lab-part-2.html) 
 
-[https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) 
 
-[https://infosecwriteups.com/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65](https://infosecwriteups.com/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65) 
 
-[https://infosecsanyam.medium.com/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2](https://infosecsanyam.medium.com/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2) 
+
+
+
+
+
+
+
 
 [https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/) 
 
-[https://0xn3va.gitbook.io/cheat-sheets/](https://0xn3va.gitbook.io/cheat-sheets/) 
 
-[https://blog.compass-security.com/2019/10/hacking-tools-cheat-sheet/](https://blog.compass-security.com/2019/10/hacking-tools-cheat-sheet/) 
 
-[https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets) 
 
-[https://github.com/dafthack/CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets) 
+
+
+
+
 
 [https://zeltser.com/security-architecture-cheat-sheet/](https://zeltser.com/security-architecture-cheat-sheet/) 
 
