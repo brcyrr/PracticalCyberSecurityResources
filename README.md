@@ -10,25 +10,54 @@
 
 [https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets](https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets) 
 
+[https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 
+
+[https://github.com/juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)
+
+[https://github.com/vlakhani28/Cyber-Security-Resources](https://github.com/vlakhani28/Cyber-Security-Resources) 
+
+[https://github.com/wtsxDev/Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing) 
+
+[https://github.com/wwong99/pentest-notes](https://github.com/wwong99/pentest-notes) 
+
+[https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) 
+
+[https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources) 
+
+[https://github.com/Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Web Pentest
 
 [https://pentestbook.six2dez.com/others/web-checklist](https://pentestbook.six2dez.com/others/web-checklist) 
 
+[https://github.com/Ignitetechnologies/Web-Application-Cheatsheet](https://github.com/Ignitetechnologies/Web-Application-Cheatsheet) 
+
+[https://infosecwriteups.com/serialization-deserialization-attacks-on-php-d5fb02e29248](https://infosecwriteups.com/serialization-deserialization-attacks-on-php-d5fb02e29248) 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Mobile Pentest
 
 [https://0xn3va.gitbook.io/cheat-sheets/](https://0xn3va.gitbook.io/cheat-sheets/) 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Cloud Pentest
 
 [https://github.com/dafthack/CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets) 
+
+[https://github.com/TROUBLE-1/Cloud-Pentesting/blob/main/Note %26 Mind Map/Cloud Pentesting/Attacking Cloud.pdf](https://github.com/TROUBLE-1/Cloud-Pentesting/blob/main/Note%20%26%20Mind%20Map/Cloud%20Pentesting/Attacking%20Cloud.pdf) 
+
+[https://raw.githubusercontent.com/5bhuv4n35h/pentestmindmap/master/cloud_penetration_testing.png](https://raw.githubusercontent.com/5bhuv4n35h/pentestmindmap/master/cloud_penetration_testing.png) 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Bug Bounty
@@ -39,9 +68,38 @@
 
 [https://infosecsanyam.medium.com/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2](https://infosecsanyam.medium.com/bug-bounty-methodology-ttp-tactics-techniques-and-procedures-v-2-0-2ccd9d7eb2e2) 
 
+[https://github.com/djadmin/awesome-bug-bounty#write-ups--authors](https://github.com/djadmin/awesome-bug-bounty#write-ups--authors) 
+
+[https://github.com/bobby-lin/study-bug-bounty](https://github.com/bobby-lin/study-bug-bounty) 
+
+[https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) 
+
+[https://github.com/jassics/security-study-plan/blob/main/web-pentest-study-plan.md](https://github.com/jassics/security-study-plan/blob/main/web-pentest-study-plan.md) 
 
 
-# OSINT
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+# OSINT & Google Dorks
+
+[https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) 
+
+[https://github.com/TheBurnsy/Vehicle-OSINT-Collection](https://github.com/TheBurnsy/Vehicle-OSINT-Collection) 
+
+[https://blog.blockmagnates.com/open-source-intelligence-osint-996c8d2db362](https://blog.blockmagnates.com/open-source-intelligence-osint-996c8d2db362) 
+
+[https://cyb3r.gitbook.io/pentest-journey/open-source-intelligence-osint-fundamentals/osint-flowcharts](https://cyb3r.gitbook.io/pentest-journey/open-source-intelligence-osint-fundamentals/osint-flowcharts) 
+
+[https://www.bruceclay.com/blog/bing-google-advanced-search-operators/](https://www.bruceclay.com/blog/bing-google-advanced-search-operators/) 
+
+[https://www.hackthebox.com/blog/What-Is-Google-Dorking](https://www.hackthebox.com/blog/What-Is-Google-Dorking) 
+
+[https://dnsdumpster.com/footprinting-reconnaissance/](https://dnsdumpster.com/footprinting-reconnaissance/) 
+
+[https://github.com/redhuntlabs/Awesome-Asset-Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # API Security
@@ -50,17 +108,53 @@
 
 [https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API Pentesting Mindmap ATTACK.pdf](https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf) 
 
+[https://github.com/shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Active Directory
 
 [https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/](https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/) 
 
+[https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# AppSec & Code Review
+
+[https://wehackpurple.com/blogs/page/2/](https://wehackpurple.com/blogs/page/2/) 
+
+[https://wehackpurple.com/blogs/page/3/](https://wehackpurple.com/blogs/page/3/) 
+
+[https://wehackpurple.com/blogs/page/4/](https://wehackpurple.com/blogs/page/4/) 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # DevSecOps
+
+[https://github.com/sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
+
+[https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps) 
+
+[https://github.com/magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security) 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# CTFs & Writeups
+
+[https://bitvijays.github.io/LFC-VulnerableMachines.html#ctf-series-vulnerable-machines](https://bitvijays.github.io/LFC-VulnerableMachines.html#ctf-series-vulnerable-machines) 
+
+[https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/) 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 # Certifications 
@@ -75,6 +169,11 @@
 
 [https://www.mannulinux.org/2022/07/covenant-c2-for-oscp-ad-lab-part-2.html](https://www.mannulinux.org/2022/07/covenant-c2-for-oscp-ad-lab-part-2.html) 
 
+[https://brcyrr.medium.com/recommendations-review-of-ewptxv2-66a114e450db](https://brcyrr.medium.com/recommendations-review-of-ewptxv2-66a114e450db) 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 # Roadmaps 
 
@@ -82,11 +181,24 @@
 
 [https://medium.com/@rezaduty/mobile-penetration-tester-roadmap-f2ec9bd68dcf](https://medium.com/@rezaduty/mobile-penetration-tester-roadmap-f2ec9bd68dcf) 
 
+[https://github.com/rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Security Architecture
+
+[https://zeltser.com/security-architecture-cheat-sheet/](https://zeltser.com/security-architecture-cheat-sheet/) 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # General Resources
 
+[https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/](https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/) 
 
+[https://kalitut.com/](https://kalitut.com/) 
 
-
+[https://hackermovie.club/](https://hackermovie.club/) 
 
 
 
@@ -105,7 +217,6 @@
 [https://twitter.com/Shubham_pen/status/1537657538795085824](https://twitter.com/Shubham_pen/status/1537657538795085824) 
 
 
-[https://bitvijays.github.io/LFC-VulnerableMachines.html#ctf-series-vulnerable-machines](https://bitvijays.github.io/LFC-VulnerableMachines.html#ctf-series-vulnerable-machines) 
 
 
 
@@ -121,7 +232,6 @@
 
 
 
-[https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/) 
 
 
 
@@ -131,47 +241,41 @@
 
 
 
-[https://zeltser.com/security-architecture-cheat-sheet/](https://zeltser.com/security-architecture-cheat-sheet/) 
 
-[https://github.com/TROUBLE-1/Cloud-Pentesting/blob/main/Note %26 Mind Map/Cloud Pentesting/Attacking Cloud.pdf](https://github.com/TROUBLE-1/Cloud-Pentesting/blob/main/Note%20%26%20Mind%20Map/Cloud%20Pentesting/Attacking%20Cloud.pdf) 
 
-[https://github.com/Ignitetechnologies/Web-Application-Cheatsheet](https://github.com/Ignitetechnologies/Web-Application-Cheatsheet) 
 
-[https://github.com/rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) 
 
-[https://brcyrr.medium.com/recommendations-review-of-ewptxv2-66a114e450db](https://brcyrr.medium.com/recommendations-review-of-ewptxv2-66a114e450db) 
 
-[https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) 
 
-[https://wehackpurple.com/blogs/page/2/](https://wehackpurple.com/blogs/page/2/) 
 
-[https://wehackpurple.com/blogs/page/3/](https://wehackpurple.com/blogs/page/3/) 
 
-[https://wehackpurple.com/blogs/page/4/](https://wehackpurple.com/blogs/page/4/) 
 
-[https://github.com/juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)
 
-[https://github.com/vlakhani28/Cyber-Security-Resources](https://github.com/vlakhani28/Cyber-Security-Resources) 
 
-[https://danielmiessler.com/study/red-blue-purple-teams/](https://danielmiessler.com/study/red-blue-purple-teams/) 
 
-[https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)
 
-[https://github.com/shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) 
 
-[https://github.com/wtsxDev/Penetration-Testing](https://github.com/wtsxDev/Penetration-Testing) 
 
-[https://github.com/djadmin/awesome-bug-bounty#write-ups--authors](https://github.com/djadmin/awesome-bug-bounty#write-ups--authors) 
 
-[https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) 
 
-[https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/](https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/) 
 
-[https://kalitut.com/](https://kalitut.com/) 
+ 
 
-[https://github.com/sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) 
 
-[https://raw.githubusercontent.com/5bhuv4n35h/pentestmindmap/master/cloud_penetration_testing.png](https://raw.githubusercontent.com/5bhuv4n35h/pentestmindmap/master/cloud_penetration_testing.png) 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
 
 [https://github.com/Proviesec/google-dorks](https://github.com/Proviesec/google-dorks) 
 
@@ -265,13 +369,13 @@
 
 [https://www.infosecmatter.com/bug-bounty-tips-2-jun-30/](https://www.infosecmatter.com/bug-bounty-tips-2-jun-30/) 
 
-[https://dnsdumpster.com/footprinting-reconnaissance/](https://dnsdumpster.com/footprinting-reconnaissance/) 
+
 
 [https://github.com/v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) 
 
 [https://bughunters.google.com/learn/presentations/5783688075542528/android-app-hacking-workshop](https://bughunters.google.com/learn/presentations/5783688075542528/android-app-hacking-workshop) 
 
-[https://github.com/redhuntlabs/Awesome-Asset-Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) 
+
 
 [https://hariprasaanth.notion.site/hariprasaanth/THICK-CLIENT-PENTESTING-CHECKLIST-35c6803f26eb4c9d89ba7f5fdc901fb0](https://www.notion.so/35c6803f26eb4c9d89ba7f5fdc901fb0) 
 
@@ -299,15 +403,13 @@
 
 [https://github.com/0xJs/RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) 
 
-[https://www.hackthebox.com/blog/What-Is-Google-Dorking](https://www.hackthebox.com/blog/What-Is-Google-Dorking) 
+
 
 [https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap](https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap) 
 
 [https://github.com/YaS5in3/Bug-Bounty-Wordlists](https://github.com/YaS5in3/Bug-Bounty-Wordlists) 
 
-[https://cyb3r.gitbook.io/pentest-journey/open-source-intelligence-osint-fundamentals/osint-flowcharts](https://cyb3r.gitbook.io/pentest-journey/open-source-intelligence-osint-fundamentals/osint-flowcharts) 
 
-[https://www.bruceclay.com/blog/bing-google-advanced-search-operators/](https://www.bruceclay.com/blog/bing-google-advanced-search-operators/) 
 
 [https://github.com/roottusk/vapi](https://github.com/roottusk/vapi) 
 
@@ -317,28 +419,15 @@
 
 [https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) 
 
-[https://blog.blockmagnates.com/open-source-intelligence-osint-996c8d2db362](https://blog.blockmagnates.com/open-source-intelligence-osint-996c8d2db362) 
 
-[https://infosecwriteups.com/serialization-deserialization-attacks-on-php-d5fb02e29248](https://infosecwriteups.com/serialization-deserialization-attacks-on-php-d5fb02e29248) 
 
-[https://hackermovie.club/](https://hackermovie.club/) 
 
-[https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources](https://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources) 
 
-[https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps) 
 
-[https://github.com/Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) 
 
-[https://github.com/magnologan/awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security) 
 
-[https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons) 
 
-[https://github.com/jassics/security-study-plan/blob/main/web-pentest-study-plan.md](https://github.com/jassics/security-study-plan/blob/main/web-pentest-study-plan.md) 
 
-[https://github.com/bobby-lin/study-bug-bounty](https://github.com/bobby-lin/study-bug-bounty) 
 
-[https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) 
 
-[https://github.com/TheBurnsy/Vehicle-OSINT-Collection](https://github.com/TheBurnsy/Vehicle-OSINT-Collection) 
 
-[https://github.com/wwong99/pentest-notes](https://github.com/wwong99/pentest-notes)
