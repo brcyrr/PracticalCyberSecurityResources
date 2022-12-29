@@ -1,5 +1,32 @@
 # Practical Cyber Security Resources
 
+
+
+# Pentest General Resources
+
+
+# Web Pentest
+
+
+# Mobile Pentest
+
+
+# Bug Bounty
+
+
+# OSINT
+
+
+# API Security
+
+
+# Certifications & Roadmaps
+
+
+# General Resources
+
+
+
 [https://brcyrr.medium.com/recommendations-of-oscp-433a08c86f27](https://brcyrr.medium.com/recommendations-of-oscp-433a08c86f27) 
 
 [https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b](https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b)
