@@ -1,1 +1,1 @@
-# Practical-Cyber-Security-Resources
+# Practical Cyber Security Resources
