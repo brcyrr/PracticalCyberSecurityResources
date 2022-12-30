@@ -2,7 +2,7 @@
 
 This repository contains a curated list of resources I suggest on LinkedIn and Twitter.📝🌝 I hope you find it useful.🌸😌
 
-Also, other platforms where you can connect with me for articles, repositories, and more that I will publish in the new year;
+In addition, other platforms where you can connect with me for articles, repositories, and more that I will publish in the new year;
 
 - https://twitter.com/brcyrr
 
