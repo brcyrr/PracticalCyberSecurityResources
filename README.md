@@ -9,8 +9,26 @@ In addition, other platforms where you can connect with me for articles, reposit
 
 - https://medium.com/@brcyrr
 
+###Contents
 
-- https://github.com/brcyrr
+- Pentest General Resources
+- Web Pentest
+- Mobile Pentest
+- Cloud Security & Pentest
+- Bug Bounty
+- OSINT & Google Dorks
+- API Security & Pentest
+- Active Directory
+- Red Teaming
+- Exploit Development
+- AppSec & Code Review
+- DevSecOps
+- CTFs & Writeups
+- Social Engineering
+- Certifications
+- Roadmaps
+- Security Architecture
+- General Resources
 
 
 Happy hunting❗️👻
