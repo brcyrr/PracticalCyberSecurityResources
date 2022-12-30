@@ -28,6 +28,24 @@
 
 [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) 
 
+[https://github.com/netbiosX/Checklists](https://github.com/netbiosX/Checklists) 
+
+[https://hariprasaanth.notion.site/hariprasaanth/THICK-CLIENT-PENTESTING-CHECKLIST-35c6803f26eb4c9d89ba7f5fdc901fb0](https://www.notion.so/35c6803f26eb4c9d89ba7f5fdc901fb0) 
+
+[https://github.com/SubediBibek-cmd/awesome-network-security](https://github.com/SubediBibek-cmd/awesome-network-security) 
+
+[https://github.com/carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) 
+
+[https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) 
+
+[https://www.lifars.com/knowledge-center/python-penetration-testing-cheat-sheet/](https://www.lifars.com/knowledge-center/python-penetration-testing-cheat-sheet/) 
+
+[https://github.com/purabparihar/Infrastructure-Pentesting-Checklist](https://github.com/purabparihar/Infrastructure-Pentesting-Checklist) 
+
+[https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap](https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap) 
+
+[https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md](https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md) 
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,6 +63,12 @@
 [https://github.com/qazbnm456/awesome-web-security](https://github.com/qazbnm456/awesome-web-security) 
 
 [https://github.com/5bhuv4n35h/pentestmindmap/blob/master/web_application_penetration_testing.png](https://github.com/5bhuv4n35h/pentestmindmap/blob/master/web_application_penetration_testing.png) 
+
+[https://guidesmiths.github.io/cybersecurity-handbook/attacks_explained/](https://guidesmiths.github.io/cybersecurity-handbook/attacks_explained/) 
+
+[https://github.com/dhaval17/awsome-security-write-ups-and-POCs](https://github.com/dhaval17/awsome-security-write-ups-and-POCs) 
+
+[https://hariprasaanth.notion.site/hariprasaanth/WEB-APPLICATION-PENTESTING-CHECKLIST-0f02d8074b9d4af7b12b8da2d46ac998](https://www.notion.so/0f02d8074b9d4af7b12b8da2d46ac998) 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -79,6 +103,8 @@
 [https://github.com/Funkmyster/awesome-cloud-security](https://github.com/Funkmyster/awesome-cloud-security) 
 
 [https://github.com/4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) 
+
+[https://github.com/aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -125,6 +151,8 @@
 [https://github.com/YaS5in3/Bug-Bounty-Wordlists](https://github.com/YaS5in3/Bug-Bounty-Wordlists) 
 
 [https://mokhansec.medium.com/what-would-i-do-if-i-start-bug-hunting-from-0-again-79c7fa78b789](https://mokhansec.medium.com/what-would-i-do-if-i-start-bug-hunting-from-0-again-79c7fa78b789) 
+
+[https://bbinfosec.medium.com/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248](https://bbinfosec.medium.com/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248) 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -194,6 +222,25 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+## Red Teaming
+
+[https://github.com/yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) 
+
+[https://github.com/infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) 
+
+[https://github.com/0xJs/RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+## Exploit Development
+
+[https://github.com/FabioBaroni/awesome-exploit-development](https://github.com/FabioBaroni/awesome-exploit-development) 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## AppSec & Code Review
 
 [https://wehackpurple.com/blogs/page/2/](https://wehackpurple.com/blogs/page/2/) 
@@ -201,6 +248,12 @@
 [https://wehackpurple.com/blogs/page/3/](https://wehackpurple.com/blogs/page/3/) 
 
 [https://wehackpurple.com/blogs/page/4/](https://wehackpurple.com/blogs/page/4/) 
+
+[https://google.github.io/eng-practices/review/](https://google.github.io/eng-practices/review/) 
+
+[https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) 
+
+[https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -226,6 +279,18 @@
 
 [https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/](https://uppusaikiran.github.io/hacking/Capture-the-Flag-CheatSheet/) 
 
+[https://htbmachines.github.io/](https://htbmachines.github.io/) 
+
+[https://github.com/Crypto-Cat/CTF](https://github.com/Crypto-Cat/CTF) 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Social Engineering
+
+[https://github.com/v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) 
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -248,6 +313,8 @@
 
 [https://github.com/brcyrr/OSWP](https://github.com/brcyrr/OSWP) 
 
+[https://twitter.com/Shubham_pen/status/1537657538795085824](https://twitter.com/Shubham_pen/status/1537657538795085824) 
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -259,6 +326,8 @@
 [https://medium.com/@rezaduty/mobile-penetration-tester-roadmap-f2ec9bd68dcf](https://medium.com/@rezaduty/mobile-penetration-tester-roadmap-f2ec9bd68dcf) 
 
 [https://github.com/rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) 
+
+[https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap](https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap) 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -280,75 +349,58 @@
 
 [https://hackermovie.club/](https://hackermovie.club/) 
 
+[https://github.com/PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) 
 
-
-
-
-
-
-[https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap](https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap) 
-
-[https://twitter.com/Shubham_pen/status/1537657538795085824](https://twitter.com/Shubham_pen/status/1537657538795085824) 
-
-[https://google.github.io/eng-practices/review/](https://google.github.io/eng-practices/review/) 
-
-[https://www.cyberseek.org/pathway.html](https://www.cyberseek.org/pathway.html) 
-
-[http://dfir.org/?q=node/8](http://dfir.org/?q=node/8) 
-
-[https://guidesmiths.github.io/cybersecurity-handbook/attacks_explained/](https://guidesmiths.github.io/cybersecurity-handbook/attacks_explained/) 
-
-[https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md](https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md) 
-
-[https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) 
-
-[https://www.lifars.com/knowledge-center/python-penetration-testing-cheat-sheet/](https://www.lifars.com/knowledge-center/python-penetration-testing-cheat-sheet/) 
-
-[https://github.com/purabparihar/Infrastructure-Pentesting-Checklist](https://github.com/purabparihar/Infrastructure-Pentesting-Checklist) 
-
-[https://bbinfosec.medium.com/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248](https://bbinfosec.medium.com/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248) 
-
-[https://github.com/aquasecurity/cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) 
-
-[https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) 
-
-[https://github.com/yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) 
-
-[https://github.com/FabioBaroni/awesome-exploit-development](https://github.com/FabioBaroni/awesome-exploit-development) 
+[https://zeltser.com/information-security/](https://zeltser.com/information-security/) 
 
 [https://infosecwriteups.com/finding-of-directory-path-in-linux-820be9ae759b](https://infosecwriteups.com/finding-of-directory-path-in-linux-820be9ae759b) 
 
 [https://cybersecuritybase.mooc.fi/](https://cybersecuritybase.mooc.fi/) 
 
-[https://github.com/dhaval17/awsome-security-write-ups-and-POCs](https://github.com/dhaval17/awsome-security-write-ups-and-POCs) 
+[https://www.cyberseek.org/pathway.html](https://www.cyberseek.org/pathway.html) 
 
-[https://hariprasaanth.notion.site/hariprasaanth/WEB-APPLICATION-PENTESTING-CHECKLIST-0f02d8074b9d4af7b12b8da2d46ac998](https://www.notion.so/0f02d8074b9d4af7b12b8da2d46ac998) 
+[http://dfir.org/?q=node/8](http://dfir.org/?q=node/8) 
 
-[https://htbmachines.github.io/](https://htbmachines.github.io/) 
 
-[https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) 
 
-[https://github.com/Crypto-Cat/CTF](https://github.com/Crypto-Cat/CTF) 
 
-[https://github.com/PaulSec/awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) 
 
-[https://zeltser.com/information-security/](https://zeltser.com/information-security/) 
 
-[https://github.com/infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit) 
 
-[https://github.com/v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) 
 
-[https://hariprasaanth.notion.site/hariprasaanth/THICK-CLIENT-PENTESTING-CHECKLIST-35c6803f26eb4c9d89ba7f5fdc901fb0](https://www.notion.so/35c6803f26eb4c9d89ba7f5fdc901fb0) 
 
-[https://github.com/SubediBibek-cmd/awesome-network-security](https://github.com/SubediBibek-cmd/awesome-network-security) 
 
-[https://github.com/carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) 
 
-[https://github.com/netbiosX/Checklists](https://github.com/netbiosX/Checklists) 
 
-[https://github.com/0xJs/RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) 
 
-[https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap](https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
