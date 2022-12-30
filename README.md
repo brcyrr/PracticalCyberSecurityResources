@@ -5,7 +5,11 @@ This repository contains a curated list of resources I suggest on LinkedIn and T
 Also, other platforms where you can connect with me for articles, repositories, and more that I will publish in the new year;
 
 - https://twitter.com/brcyrr
+
+
 - https://medium.com/@brcyrr
+
+
 - https://github.com/brcyrr
 
 
