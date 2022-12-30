@@ -1,6 +1,6 @@
 # Practical Cyber Security Resources 🌟
 
-This repository contains a curated list of resources I suggest on LinkedIn and Twitter.📝🌝 I hope you find it useful.😌
+This repository contains a curated list of resources I suggest on LinkedIn and Twitter.📝🌝 I hope you find it useful.🌸😌
 
 Also, other platforms where you can connect with me for articles, repositories, and more that I will publish in the new year;
 
@@ -13,7 +13,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 - https://github.com/brcyrr
 
 
-## Pentest General Resources 
+## Pentest General Resources 📝
 
 - [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) 
 
@@ -61,7 +61,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Web Pentest
+## Web Pentest 📝
 
 - [https://pentestbook.six2dez.com/others/web-checklist](https://pentestbook.six2dez.com/others/web-checklist) 
 
@@ -85,7 +85,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Mobile Pentest
+## Mobile Pentest 📝
 
 - [https://0xn3va.gitbook.io/cheat-sheets/](https://0xn3va.gitbook.io/cheat-sheets/) 
 
@@ -101,7 +101,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Cloud Security & Pentest
+## Cloud Security & Pentest 📝
 
 - [https://github.com/dafthack/CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets) 
 
@@ -121,7 +121,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Bug Bounty
+## Bug Bounty 📝
 
 - [https://bugbountyforum.com/tools/recon/](https://bugbountyforum.com/tools/recon/) 
 
@@ -169,7 +169,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## OSINT & Google Dorks
+## OSINT & Google Dorks 📝
 
 - [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) 
 
@@ -193,7 +193,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## API Security & Pentest
+## API Security & Pentest 📝
 
 - [https://raw.githubusercontent.com/cyprosecurity/API-SecurityEmpire/main/assets/API Pentesting Mindmap.png](https://raw.githubusercontent.com/cyprosecurity/API-SecurityEmpire/main/assets/API%20Pentesting%20Mindmap.png) 
 
@@ -217,7 +217,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Active Directory
+## Active Directory 📝
 
 - [https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/](https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/) 
 
@@ -233,7 +233,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Red Teaming
+## Red Teaming 📝
 
 - [https://github.com/yeyintminthuhtut/Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) 
 
@@ -245,14 +245,14 @@ Also, other platforms where you can connect with me for articles, repositories, 
 
 
 
-## Exploit Development
+## Exploit Development 📝
 
 - [https://github.com/FabioBaroni/awesome-exploit-development](https://github.com/FabioBaroni/awesome-exploit-development) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## AppSec & Code Review
+## AppSec & Code Review 📝
 
 - [https://wehackpurple.com/blogs/page/2/](https://wehackpurple.com/blogs/page/2/) 
 
@@ -270,7 +270,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## DevSecOps
+## DevSecOps 📝
 
 - [https://github.com/sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
 
@@ -284,7 +284,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## CTFs & Writeups
+## CTFs & Writeups 📝
 
 - [https://bitvijays.github.io/LFC-VulnerableMachines.html#ctf-series-vulnerable-machines](https://bitvijays.github.io/LFC-VulnerableMachines.html#ctf-series-vulnerable-machines) 
 
@@ -298,7 +298,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Social Engineering
+## Social Engineering 📝
 
 - [https://github.com/v2-dev/awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) 
 
@@ -306,7 +306,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Certifications 
+## Certifications 📝
 
 - [https://brcyrr.medium.com/recommendations-of-oscp-433a08c86f27](https://brcyrr.medium.com/recommendations-of-oscp-433a08c86f27) 
 
@@ -330,7 +330,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Roadmaps 
+## Roadmaps 📝
 
 - [https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b](https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b)
 
@@ -344,7 +344,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Security Architecture
+## Security Architecture 📝
 
 - [https://zeltser.com/security-architecture-cheat-sheet/](https://zeltser.com/security-architecture-cheat-sheet/) 
 
@@ -352,7 +352,7 @@ Also, other platforms where you can connect with me for articles, repositories, 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## General Resources
+## General Resources 📝
 
 - [https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/](https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/) 
 
