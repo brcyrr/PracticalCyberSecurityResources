@@ -1,6 +1,6 @@
 # Practical Cyber Security Resources 🌟
 
-
+This repository contains a curated list of resources I suggest on LinkedIn and Twitter.📝🌝 I hope you find it useful.😌
 
 ## Pentest General Resources 
 
@@ -341,7 +341,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# General Resources
+## General Resources
 
 [https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/](https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/) 
 
