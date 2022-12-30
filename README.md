@@ -13,6 +13,8 @@ In addition, other platforms where you can connect with me for articles, reposit
 - https://github.com/brcyrr
 
 
+Happy hunting❗️☺️
+
 ## Pentest General Resources 📝
 
 - [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) 
