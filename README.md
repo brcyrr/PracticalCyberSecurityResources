@@ -111,6 +111,8 @@ Happy hunting❗️👻
 
 - [https://hariprasaanth.notion.site/hariprasaanth/WEB-APPLICATION-PENTESTING-CHECKLIST-0f02d8074b9d4af7b12b8da2d46ac998](https://www.notion.so/0f02d8074b9d4af7b12b8da2d46ac998) 
 
+- https://alike-lantern-72d.notion.site/Web-Application-Penetration-Testing-Checklist-4792d95add7d4ffd85dd50a5f50659c6 
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -296,6 +298,18 @@ Happy hunting❗️👻
 - [https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) 
 
 - [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) 
+
+- [https://erdemstar08.medium.com/source-code-scan-7448df9a1358](https://erdemstar08.medium.com/source-code-scan-7448df9a1358) 
+
+- [https://erdemstar08.medium.com/java-source-code-scanning-with-maven-fortify-4514b61696b6](https://erdemstar08.medium.com/java-source-code-scanning-with-maven-fortify-4514b61696b6) 
+
+- [https://erdemstar08.medium.com/ios-source-code-scanning-fortify-b0cca71ab519](https://erdemstar08.medium.com/ios-source-code-scanning-fortify-b0cca71ab519) 
+
+- [https://erdemstar08.medium.com/android-source-code-scanning-fortify-f218df889eeb](https://erdemstar08.medium.com/android-source-code-scanning-fortify-f218df889eeb) 
+
+- [https://erdemstar08.medium.com/code-scan-with-sast-net-framework-4-8-876d42673c72](https://erdemstar08.medium.com/code-scan-with-sast-net-framework-4-8-876d42673c72) 
+
+- [https://erdemstar08.medium.com/code-scan-with-sast-net-core-3-49cb8c742ecc](https://erdemstar08.medium.com/code-scan-with-sast-net-core-3-49cb8c742ecc)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
