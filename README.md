@@ -29,6 +29,10 @@ In addition, other platforms where you can connect with me for articles, reposit
 - Certifications
 - Roadmaps
 - Security Architecture
+- IoT Security
+- Container Security
+- Blockchain Security
+- Threat Modelling
 - General Resources
 
 
@@ -78,6 +82,10 @@ Happy hunting❗️👻
 - [https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap](https://github.com/Orange-Cyberdefense/arsenal/tree/master/mindmap) 
 
 - [https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md](https://github.com/RafaelFunchal/wordpress-security-checklist/blob/master/items.md) 
+
+- https://viperone.gitbook.io/pentest-everything/
+
+- https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -187,6 +195,7 @@ Happy hunting❗️👻
 
 - [https://bbinfosec.medium.com/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248](https://bbinfosec.medium.com/collection-of-bug-bounty-tip-will-be-updated-daily-605911cfa248) 
 
+- https://github.com/imran-parray/Mind-Maps/blob/master/Recon%20-%20Imran%20parray/My-recon.png 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -302,6 +311,8 @@ Happy hunting❗️👻
 
 - [https://github.com/TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) 
 
+- https://github.com/We5ter/Awesome-DevSecOps-Platforms
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -369,6 +380,41 @@ Happy hunting❗️👻
 ## Security Architecture 📝
 
 - [https://zeltser.com/security-architecture-cheat-sheet/](https://zeltser.com/security-architecture-cheat-sheet/) 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## IoT Security 📝
+
+- [https://github.com/V33RU/IoTSecurity101](https://github.com/V33RU/IoTSecurity101) 
+
+- https://github.com/nebgnahz/awesome-iot-hacks
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Container Security 📝
+
+- https://github.com/krol3/container-security-checklist
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Blockchain Security 📝
+
+- https://github.com/xxxeyJ/Awesome-Blockchain-Security
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Threat Modelling 📝
+
+- https://github.com/hysnsec/awesome-threat-modelling
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
