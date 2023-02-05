@@ -12,7 +12,7 @@ In addition, other platforms where you can connect with me for articles, reposit
 
 ### Contents
 
-- Pentest General Resources
+- Pentest General Resources (https://github.com/brcyrr/PracticalCyberSecurityResources#pentest-general-resources- "Pentest General Resources")
 - Web Pentest
 - Mobile Pentest
 - Cloud Security & Pentest
