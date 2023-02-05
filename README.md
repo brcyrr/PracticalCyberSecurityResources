@@ -13,27 +13,27 @@ In addition, other platforms where you can connect with me for articles, reposit
 ### Contents
 
 - [Pentest General Resources](https://github.com/brcyrr/PracticalCyberSecurityResources#pentest-general-resources-) 
-- Web Pentest
-- Mobile Pentest
-- Cloud Security & Pentest
-- Bug Bounty
-- OSINT & Google Dorks
-- API Security & Pentest
-- Active Directory
-- Red Teaming
-- Exploit Development
-- AppSec & Code Review
-- DevSecOps
-- CTFs & Writeups
-- Social Engineering
-- Certifications
-- Roadmaps
-- Security Architecture
-- IoT Security
-- Container Security
-- Blockchain Security
-- Threat Modelling
-- General Resources
+- [Web Pentest](https://github.com/brcyrr/PracticalCyberSecurityResources#web-pentest-)
+- [Mobile Pentest](https://github.com/brcyrr/PracticalCyberSecurityResources#mobile-pentest-)
+- [Cloud Security & Pentest](https://github.com/brcyrr/PracticalCyberSecurityResources#cloud-security--pentest-)
+- [Bug Bounty](https://github.com/brcyrr/PracticalCyberSecurityResources#bug-bounty-)
+- [OSINT & Google Dorks](https://github.com/brcyrr/PracticalCyberSecurityResources#osint--google-dorks-)
+- [API Security & Pentest](https://github.com/brcyrr/PracticalCyberSecurityResources#api-security--pentest-)
+- [Active Directory](https://github.com/brcyrr/PracticalCyberSecurityResources#active-directory-)
+- [Red Teaming](https://github.com/brcyrr/PracticalCyberSecurityResources#red-teaming-)
+- [Exploit Development](https://github.com/brcyrr/PracticalCyberSecurityResources#exploit-development-)
+- [AppSec & Code Review](https://github.com/brcyrr/PracticalCyberSecurityResources#appsec--code-review-)
+- [DevSecOps](https://github.com/brcyrr/PracticalCyberSecurityResources#devsecops-)
+- [CTFs & Writeups](https://github.com/brcyrr/PracticalCyberSecurityResources#ctfs--writeups-)
+- [Social Engineering](https://github.com/brcyrr/PracticalCyberSecurityResources#social-engineering-)
+- [Certifications](https://github.com/brcyrr/PracticalCyberSecurityResources#certifications-)
+- [Roadmaps](https://github.com/brcyrr/PracticalCyberSecurityResources#roadmaps-)
+- [Security Architecture](https://github.com/brcyrr/PracticalCyberSecurityResources#security-architecture-)
+- [IoT Security](https://github.com/brcyrr/PracticalCyberSecurityResources#iot-security-)
+- [Container Security](https://github.com/brcyrr/PracticalCyberSecurityResources#container-security-)
+- [Blockchain Security](https://github.com/brcyrr/PracticalCyberSecurityResources#blockchain-security-)
+- [Threat Modelling](https://github.com/brcyrr/PracticalCyberSecurityResources#threat-modelling-)
+- [General Resources](https://github.com/brcyrr/PracticalCyberSecurityResources#general-resources-)
 
 
 Happy hunting❗️👻
