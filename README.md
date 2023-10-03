@@ -33,6 +33,7 @@ In addition, other platforms where you can connect with me for articles, reposit
 - [Container Security](https://github.com/brcyrr/PracticalCyberSecurityResources#container-security-)
 - [Blockchain Security](https://github.com/brcyrr/PracticalCyberSecurityResources#blockchain-security-)
 - [Threat Modelling](https://github.com/brcyrr/PracticalCyberSecurityResources#threat-modelling-)
+- [Kubernetes Security](https://github.com/brcyrr/PracticalCyberSecurityResources#kubernetes-security-)
 - [General Resources](https://github.com/brcyrr/PracticalCyberSecurityResources#general-resources-)
 
 
