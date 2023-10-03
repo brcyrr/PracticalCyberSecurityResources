@@ -244,7 +244,9 @@ Happy hunting❗️👻
 
 - [https://www.virtuesecurity.com/api-penetration-testing/](https://www.virtuesecurity.com/api-penetration-testing/) 
 
-- [https://university.apisec.ai/](https://university.apisec.ai/) 
+- [https://university.apisec.ai/](https://university.apisec.ai/)
+  
+- [https://www.productsecurity.ai/course/api-security-training](https://www.productsecurity.ai/course/api-security-training)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -326,6 +328,8 @@ Happy hunting❗️👻
 - [https://github.com/TaptuIT/awesome-devsecops](https://github.com/TaptuIT/awesome-devsecops) 
 
 - https://github.com/We5ter/Awesome-DevSecOps-Platforms
+
+- [https://www.productsecurity.ai/course/devsecops-training](https://www.productsecurity.ai/course/devsecops-training)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -414,13 +418,15 @@ Happy hunting❗️👻
 
 - https://github.com/krol3/container-security-checklist
 
+- [https://www.productsecurity.ai/course/container-security-course](https://www.productsecurity.ai/course/container-security-course)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Blockchain Security 📝
 
-- https://github.com/xxxeyJ/Awesome-Blockchain-Security
+- [https://github.com/xxxeyJ/Awesome-Blockchain-Security](https://github.com/xxxeyJ/Awesome-Blockchain-Security)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -428,7 +434,17 @@ Happy hunting❗️👻
 
 ## Threat Modelling 📝
 
-- https://github.com/hysnsec/awesome-threat-modelling
+- [https://github.com/hysnsec/awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling)
+
+- [https://www.productsecurity.ai/course/threat-modeling-training](https://www.productsecurity.ai/course/threat-modeling-training)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Threat Modelling 📝
+
+- [https://www.productsecurity.ai/course/kubernetes-security-course](https://www.productsecurity.ai/course/kubernetes-security-course)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
