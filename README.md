@@ -442,7 +442,7 @@ Happy hunting❗️👻
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Threat Modelling 📝
+## Kubernetes Security 📝
 
 - [https://www.productsecurity.ai/course/kubernetes-security-course](https://www.productsecurity.ai/course/kubernetes-security-course)
 
